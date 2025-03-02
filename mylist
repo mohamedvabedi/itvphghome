@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="General;Undefined",Al Aoula International (360p)
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Religious;Undefined",Assadissa (360p)
+https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="General;Undefined",Al Maghribia (360p)
+https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Al Aoula International (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (720p) [Not 24/7]
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8?checkedby:iptvcat.com
